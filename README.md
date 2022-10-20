@@ -1,5 +1,5 @@
 # webdev-projects
 
-- [x] [~~smooth-scrolling~~](https://proffesorghost.github.io/full-page-scroll/) :tada:
-- [ ] Horizontal Scrolling
-- [ ] Parallel Scrolling
+- [x] [~~smooth-scrolling~~](https://proffesorghost.github.io/smooth-scrolling/) :tada:
+- [ ] horizontal-scrolling
+- [ ] parallel-scrolling
